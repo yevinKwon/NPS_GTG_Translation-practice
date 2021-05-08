@@ -1,6 +1,3 @@
-title : 주커버그 왈 "오큘러스 퀘스트 프로 중요함"
-주커버그, 오큘러스 퀘스트 프로의 중요성을 설명하다.
-1줄 추가추가
 
 It's easy to think Facebook doesn't care that much about high-end PC VR headsets. After all, the company just unceremoniously killed off its Rift S headset, leaving the standalone Quest 2 as its only current VR product. With the addition of Air Link, which lets Quest 2 owners wirelessly stream VR from gaming PCs, there doesn't appear to be an immediate need for a true Oculus PC headset. But it turns out, the company is actually working on a more powerful VR headset, the Quest Pro, according to Facebook VP Andrew Bosworth and consulting Technical Officer John Carmack. 
 
