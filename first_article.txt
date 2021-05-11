@@ -1,6 +1,14 @@
-title: amdflkmf
+title: Zuckerberg explains why an Oculus Quest 'Pro' is necessary
+[주커버그, 오큘러스 퀘스트 '프로'의 필요성을 설명하다.]
 
-It's easy to think Facebook doesn't care that much about high-end PC VR headsets. After all, the company just unceremoniously killed off its Rift S headset, leaving the standalone Quest 2 as its only current VR product. With the addition of Air Link, which lets Quest 2 owners wirelessly stream VR from gaming PCs, there doesn't appear to be an immediate need for a true Oculus PC headset. But it turns out, the company is actually working on a more powerful VR headset, the Quest Pro, according to Facebook VP Andrew Bosworth and consulting Technical Officer John Carmack. 
+It's easy to think Facebook doesn't care that much about high-end PC VR headsets. 
+[페이스북은 PC용 하이엔드 VR 헤드셋에 큰 관심이 없다고 생각하기 쉽습니다.]
+After all, the company just unceremoniously killed off its Rift S headset, leaving the standalone Quest 2 as its only current VR product. 
+[어쨌든, 그 회사는 스탠드얼롱 형태의 오큘러스 퀘스트 2를 유일한 VR 제품군으로 남겨둔 채, 인정사정없이 Rift S 헤드셋을 없앴습니다. ]
+With the addition of Air Link, which lets Quest 2 owners wirelessly stream VR from gaming PCs, there doesn't appear to be an immediate need for a true Oculus PC headset. 
+[오큘러스 퀘스트 2 소유자들이 게이밍 PC에서 무선으로 VR을 스트리밍 할 수 있도록 하는 '에어 링크'가 추가됨에 따라, 진정한 오큘러스 PC 헤드셋은 당장 필요하지는 않아 보였습니다.]
+But it turns out, the company is actually working on a more powerful VR headset, the Quest Pro, according to Facebook VP Andrew Bosworth and consulting Technical Officer John Carmack. 
+[그러나 페이스북의 부사장 Andrew Bosworth와 컨설팅 기술 책임자 John Carmack에 따르면 그 회사는 더 강력한 VR 헤드셋인 오큘러스 퀘스트 프로를 개발하고 있다고 합니다.]
 
 Now, in an interview with CNET's Scott Stein, Mark Zuckerberg is offering his thoughts on what a Quest Pro could actually be. "This [Quest Pro] is certainly something that we're working on," he said. "Basically, having a higher-end virtual reality experience." Zuckerberg explains you'd typically offer that by connecting a headset to a PC, but now he believes doing so is too big a compromise for the overall VR experience. So that's why the company is aiming for a Quest Pro, rather than a wired "Rift Pro." The company's Air Link technology proved they could make wireless VR work on a consumer-grade headset, so it doesn't seem a huge leap if Facebook wanted to make that even more viable for professional users. 
 
@@ -11,3 +19,5 @@ Face tracking, meanwhile, could seriously improve virtual chat apps by directly 
 When you consider how successful HTC Vive has been with its Pro devices, it's also not that hard to imagine Facebook wanting to target higher-end users and enterprise markets. The Quest 2 is already a wildly successful consumer device, but there are plenty of folks out there willing to pay a lot more for vastly more capable hardware. Just don't expect a Quest Pro anytime soon.
 
 "From my perspective, it's filling out the initial vision and hope that we had for VR about how there are going to be all these different use cases," Zuckerberg said. "It's amazing for gaming, but it's not only for gaming. Part of the question is if you were focused on building a higher-end device that could really max out further on some of those other use cases, in addition to doing the gaming pieces, there are some interesting questions about how you design."
+
+URL: https://www.engadget.com/mark-zuckerberg-oculus-quest-pro-vr-headset-164646103.html
