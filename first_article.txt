@@ -1,23 +1,34 @@
 title: Zuckerberg explains why an Oculus Quest 'Pro' is necessary
-[주커버그, 오큘러스 퀘스트 '프로'의 필요성을 설명하다.]
+제목 주커버그가 왜 오큘러스 퀘스트 프로가 필요한지 설명한다.
 
-It's easy to think Facebook doesn't care that much about high-end PC VR headsets. 
-[페이스북은 PC용 하이엔드 VR 헤드셋에 큰 관심이 없다고 생각하기 쉽습니다.]
-After all, the company just unceremoniously killed off its Rift S headset, leaving the standalone Quest 2 as its only current VR product. 
-[어쨌든, 그 회사는 스탠드얼롱 형태의 오큘러스 퀘스트 2를 유일한 VR 제품군으로 남겨둔 채, 인정사정없이 Rift S 헤드셋을 없앴습니다. ]
-With the addition of Air Link, which lets Quest 2 owners wirelessly stream VR from gaming PCs, there doesn't appear to be an immediate need for a true Oculus PC headset. 
-[오큘러스 퀘스트 2 소유자들이 게이밍 PC에서 무선으로 VR을 스트리밍 할 수 있도록 하는 '에어 링크'가 추가됨에 따라, 진정한 오큘러스 PC 헤드셋은 당장 필요하지는 않아 보였습니다.]
-But it turns out, the company is actually working on a more powerful VR headset, the Quest Pro, according to Facebook VP Andrew Bosworth and consulting Technical Officer John Carmack. 
-[그러나 페이스북의 부사장 Andrew Bosworth와 컨설팅 기술 책임자 John Carmack에 따르면 그 회사는 더 강력한 VR 헤드셋인 오큘러스 퀘스트 프로를 개발하고 있다고 합니다.]
+It's easy to think Facebook doesn't care that much about high-end PC VR headsets.
+
+페이스북이 high-end PC VR 헤드셋에 대해 신경쓰지 않을거라고 생각하기 쉽다.
+
+After all, the company just unceremoniously killed off its Rift S headset, leaving the standalone Quest 2 as its only current VR product.
+
+하지만 페이스북이 따져보지도 않고 Rift S headset을 없앴다. 현재 유일한 VR 제품인 퀘스트2만을 남기고.
+With the addition of Air Link, which lets Quest 2 owners wirelessly stream VR from gaming PCs, there doesn't appear to be an immediate need for a true Oculus PC headset. But it turns out, the company is actually working on a more powerful VR headset, the Quest Pro, according to Facebook VP Andrew Bosworth and consulting Technical Officer John Carmack. 
+
+퀘스트2의 소유자가 게이밍 PC에서 무선 VR 스트리밍을 가능하게 해주는 에어링크의 추가에 따라 진정한 오큘러스 PC 헤드셋이 즉각적으로 필요한것처럼 보이지는 않는다. 하지만  페이스북 VP인  Andrew Bosworth 와 CTO 인 John Carmack 에 따르면 페이스북은 더 강력한 VR헤드셋 제작 작업중인것으로 밝혀졌다. 퀘스트 프로이다.
 
 Now, in an interview with CNET's Scott Stein, Mark Zuckerberg is offering his thoughts on what a Quest Pro could actually be. "This [Quest Pro] is certainly something that we're working on," he said. "Basically, having a higher-end virtual reality experience." Zuckerberg explains you'd typically offer that by connecting a headset to a PC, but now he believes doing so is too big a compromise for the overall VR experience. So that's why the company is aiming for a Quest Pro, rather than a wired "Rift Pro." The company's Air Link technology proved they could make wireless VR work on a consumer-grade headset, so it doesn't seem a huge leap if Facebook wanted to make that even more viable for professional users. 
 
+현재, CNET의 Scott Stein과의 인터뷰에 따르면 주커버그는 퀘스트 프로가 실제러 어떻게 될수 있는지에 대한 자신의 생각을 내비치고 있다. "이 [퀘스트 프로]는  확실히 우리가 작업중인 것이다" 라고 그는 말했다. "기본적으로 더 높은 수준의 VR경험입니다" 주커버그는 설명한다.  일반적으로 헤드셋을 PC에 연결함으로써 제공하는것들은 , 지금에는 전체적인 VR 경험에 대한 너무 큰 타협입니다. 그것이 바로 페이스북이 "리프트 프로" 가 아닌 퀘스트 프로를 목표로 하고있는 이유이다. 페이스북의 에어링크 기술은그들이 소비자 레벨의 무선 VR 작품을 만들수 있다는 것을 증명했다.그래서 페이스북이 오큘러스 프로를 전문 유저들을 위해 훨씬 실용적으로 만드는것을 원한다는것은 큰 도약으로 보이지 않는다. 
+
 Zuckerberg goes on to point out there are other elements that could go into a Quest Pro, including additional sensors and capabilities that could make it useful for activities beyond gaming. That could mean built-in eye and face tracking technology, which the company has been discussing for years. With eye tracking, the Quest Pro could tell your computer the exact object you're looking at, which could focus graphical rendering and enable new VR interactions. When I tested out Tobii's eye tracking technology a few years ago, it gave me an almost telepathic ability to hit far off targets in the distance.
+
+주커버그는 퀘스트 프로에 들어갈 수 있는 다른 요소들이 있다는것을 지적한다. 추가적인 센서들이나 게이밍을 넘은 활동들에 유용하게 사용할 기능들을 포함한. 그것들은 페이스북이 수년간 논의한 built-in eye와 얼굴 출적 기능을 의미 할 수 있다. 퀘스트 프로는 시선 추적으로 컴퓨터에게 너가 보고있는 정확한 개체를 알려줄 수 있고 , 그래픽 렌더링에 집중하고, 새로운 VR 상호작용을 가능하게 할 수 있다. 내가 Tobii의 시선추적 기술을 시험해 보았을때 그것은 나에게 멀리 떨어진 목표를 때릴 수 있는 거의 텔레파시적인 능력을 주었다.
 
 Face tracking, meanwhile, could seriously improve virtual chat apps by directly capturing our mouth movements. It's like the difference between chatting with a character animated by Pixar, versus one that looks like it came from the PlayStation 2. That's something HTC Vive is also exploring with its new Facial Tracker accessory. Additionally, Facebook just recently showed off wrist-worn AR devices, which could conceivably bring a whole new set of sensors into your VR experience.
 
+한편, 얼굴 추적은 입의 움직임을 직접정으로 캡쳐링 함으로써 가상채팅 앱들을 굉장히 향상 시켰다.  그것은 픽사에서 애니메이트한 캐릭터들과의 채팅과 플레이스테이션 2에서 나온 캐릭터들과의 채팅과의 차이 같았다. 그것은 HTC VIVE 또한 새로운 얼굴 추적 액세사리와 모험하고 있다는 것이다. 더하여 , 페이스북은 최근  손목 착용 AR 기기를 공개했다. 그리고 그것은 아마 당신의 VR 경험에 완전히 새로운 센서들을 데려올 수 있을 것이다. 
+
+
 When you consider how successful HTC Vive has been with its Pro devices, it's also not that hard to imagine Facebook wanting to target higher-end users and enterprise markets. The Quest 2 is already a wildly successful consumer device, but there are plenty of folks out there willing to pay a lot more for vastly more capable hardware. Just don't expect a Quest Pro anytime soon.
+
+당신이 HTC VIVE가 그들의 프로 기기로 성공적이었는지를 고려하면, 페이스북이 고사양 사용자들과 기업시장을 목표로 하고싶은지 상상하는 것은 어렵지 않다. 퀘스트 2는 이미 광범위하게 성공적인 소비자 기기이다. 하지만 더 많은 기능의 하드웨어를 위해 더 많은 비용을 지불할 사람들이 많다.  퀘스트 프로를 조만간 기대하지 마라
 
 "From my perspective, it's filling out the initial vision and hope that we had for VR about how there are going to be all these different use cases," Zuckerberg said. "It's amazing for gaming, but it's not only for gaming. Part of the question is if you were focused on building a higher-end device that could really max out further on some of those other use cases, in addition to doing the gaming pieces, there are some interesting questions about how you design."
 
-URL: https://www.engadget.com/mark-zuckerberg-oculus-quest-pro-vr-headset-164646103.html
+"내 관점으로는 우리가 가지고 있는 VR에 대해 얼마나 많은 사용 상황들이 발생할지에 대한 처음의 전망과 희망을 채우고 있다" 라고 주커버그는 말했다. 그것은 게이밍으로 놀랍지만, 그것은 단지 게이밍만을 위한 것은 아니다.  // 질문의 일부는 만약 너가 몇명의 다른 유저 상황에 대해  고사양 기기를 만드는데 집중다면 
